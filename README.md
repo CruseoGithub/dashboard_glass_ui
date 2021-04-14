@@ -1,2 +1,2 @@
-# dashboard_glass_ui
- Simple dashboard with transparent ui
+# Dashboard with transparent ui
+ Simple mockup dashboard with transparent ui (HTML & CSS only)
